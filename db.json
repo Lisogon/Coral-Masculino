@@ -353,12 +353,12 @@
       "releaseYear": 2016
     },
     {
-      "title": "Acquitted",
+      "title": "Coral Maculino",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "programType": "series",
       "images": {
         "Poster Art": {
-          "url": "https://streamcoimg-a.akamaihd.net/000/108/70/10870-PosterArt-c37e8232f327b27bc62043ea627ca528.jpg",
+          "url": "https://res.cloudinary.com/dgw9kdyyn/image/upload/v1581085432/Fotos/PHOTO-2020-01-29-07-14-44_3_e6tqqo.jpg",
           "width": 1000,
           "height": 1500
         }
